@@ -1,2 +1,2 @@
-# SQL-For-Data-Science
+# SQL-For-Data-Science-Project
 Coursera - University of California, Davis
